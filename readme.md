@@ -1,5 +1,4 @@
-Using Jupyter Notebook, which is an environment that allows use of programming languages to do computations.
-Explortory computations of text you want to show.
+Using Jupyter Notebook, which is an environment that allows use of programming languages to do computations or exploratory computations of text you want to display for others to see.
 
 Looked at the Python Interface to the Linkedin API-which grants access to:
 * LinkedIn Profile
